@@ -152,7 +152,7 @@ application.secret_key = 'Add your secret key'
 1. Restart Apache sudo service apache2 restart
 
 # References:
-https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
-https://stackoverflow.com/
-http://flask-sqlalchemy.pocoo.org/2.3/
-https://www.postgresql.org/
+- https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+- https://stackoverflow.com/
+- http://flask-sqlalchemy.pocoo.org/2.3/
+- https://www.postgresql.org/
